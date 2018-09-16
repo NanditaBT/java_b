@@ -29,19 +29,19 @@
 		<repository>
 			<id>central</id>
 			<name>releases</name>
-			<url>http://52.90.132.135:8081/artifactory/libs-release-local</url>
+			<url>http://18.234.62.88:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshot</id>
 			<name>snapshots</name>
-			<url>http://52.90.132.135:8081/artifactory/libs-snapshot-local</url>
+			<url>http://18.234.62.88:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 
 	<scm>
 		<connection>scm:git:git@github.com:NanditaBT/java_b</connection>
-		<developerConnection>scm:git:git@github.com:keshavkummari/devops.git</developerConnection>
-		<url>git@github.com:keshavkummari/devops.git</url>
+		<developerConnection>scm:git:git@github.com:NanditaBT/java_b.git</developerConnection>
+		<url>git@github.com:NanditaBT/java_b.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
